@@ -1,6 +1,3 @@
-Downloading old R6 can be a bit overwhelming at first, ~~so there is a video linked below to guide you through it~~! (*Coming later this year!*)  
-If you are more of a fan of textual guides however, you can find one below the video.  
-  
 # How to download Old Siege using SlejmUr's downloader
 1. Find a drive/folder where you have ample disk space. Some versions of old siege are as large as 80-90 GB.
 
@@ -9,8 +6,8 @@ If you are more of a fan of textual guides however, you can find one below the v
 3. Set up an exclusion in your Windows Defender and/or third-party antivirus for the folder you just created.
 This is important as some files that are required to make the game work properly are flagged as viruses.
 
-4. Go to [this]() message in the Operation Throwback discord server. Inside of the #r6-downloader (<#1092833532981809293>) channel you can find a post labled with SlejmUr. Go ahead and download it to the folder you just created. 
-Some browsers will flag the download as malicious, and if it happens to you go ahead and follow the 
+4. Go to the (<#1092833532981809293>) channel you can find a post labelled with SlejmUr. Go ahead and download it to the folder you just created. 
+Some browsers will flag the download as malicious, and if it happens, allow the download through (check it yourself)
 
 5. Run the downloader and follow the instructions on the screen.
 

@@ -13,8 +13,7 @@ First we are going to prepare your setup.
 
 3. Go to web browser and enable in settings in section downloads and turn on the "ask where to download" (depends on what browser but overall the same)
 
-now that you are done with the little prep, you won't need to mess with turning off your antivirus ever again. Also don't forget to download the dotnet 6 in Operation Throwback in channel r6downloader.
-
+now that you are done with the little prep, you won't need to mess with turning off your antivirus ever again.
 ## Downloading with Steam
 
 Now that you installed dotnet it's time you download the r6downloader
